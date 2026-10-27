@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oussaidabdellah.com/sitemap.xml
